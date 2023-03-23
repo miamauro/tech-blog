@@ -6,6 +6,7 @@ This application is a CMS style blog where developers can publish posts and comm
 
 ## Deployed Application
 
-Below is a link to the deployed application followed by a screenshot of the app's homepage.
+Below is a link to the deployed application followed by a screenshot of the app's dashboard.
 
-[Tech Blog]()
+[Tech Blog](https://lit-brook-65474.herokuapp.com/)  
+![screenshot](./public/images/screenshot.png)
