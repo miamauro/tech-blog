@@ -2,7 +2,7 @@
 
 ## Description
 
-This application is a CMS style blog where developers can publish posts and comment on other developers' posts. This application follows the MVC paradign in architectural structure, uses Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+This application is a CMS style blog where developers can publish posts and comment on other developers' posts. This application follows the MVC paradigm in architectural structure, uses Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Deployed Application
 
